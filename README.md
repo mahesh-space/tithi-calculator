@@ -163,9 +163,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 For questions or feedback, please contact:
-- **Mahesh**
+- **Mahesh Gurjar**
 - **Email**: jiwanamahesh@gmail.com
-- **GitHub**: [your-username](https://github.com/mahesh-space)
+- **GitHub**: [mahesh-space](https://github.com/mahesh-space)
 
 ---
 
